@@ -1,12 +1,12 @@
 fun main(args: Array<String>) {
     
-    // var type: Değiştirilebilir değerler.
-    // Tür belirtilmemis.
+    // var: Değiştirilebilir değerler.
+    // Tür belirtilmemis bir degişkenin tanimlanmasi.
     var myVariable = 13 / 2 //>> 6 
     println(myVariable) 
     
-    // value type: Değiştirilemez değerler.
-    // Tür belirtilmemis.
+    // value: Değiştirilemez (sabit) değerler.
+    // Tür belirtilmemis bir degiskenin tanimlanmasi.
     val myValue = 1.25 / 2 //>> 0.625
     println(myValue)
     
@@ -14,6 +14,7 @@ fun main(args: Array<String>) {
     var myDouble : Double
     // Initialize
     myDouble = 3.14
+    
     // Print Console
     println("Pi=" + myDouble)
     
