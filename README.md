@@ -1,2 +1,2 @@
-# KotlinTutorials
- :dictionary:
+# Kotlin Tutorials
+
