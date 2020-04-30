@@ -3,12 +3,11 @@
   <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Variables.kt">Veriables</a></li>
   <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Nullability.kt">Nullability</a></li>
   <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Operators.kt">Operators</a></li>
-  <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Strings.kt">Strings</a></li>
-  <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Arrays.kt">Arrays</a></li>
   <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Conditionals.kt">Conditionals</a></li>
   <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Loops.kt">Loops</a></li>
   <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Functions.kt">Functions</a></li>
   <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Lambda.kt">Lambda</a></li>
+  <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Arrays.kt">Arrays</a></li>
   <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/List.kt">List</a></li>
   <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Set.kt">Set</a></li>
   <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Map.kt">Map</a></li>
