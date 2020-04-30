@@ -1,12 +1,13 @@
 fun main(args: Array<String>) {
     
-    // var: Değiştirilebilir değerler.
+    // var : Variable - Değiştirilebilir değerler.
+    // val : Value - Değiştirilemez (sabit) değerler.
+
     // Tür belirtilmemis bir degişkenin tanimlanmasi.
     var myVariable = 13 / 2 //>> 6 
     println(myVariable) 
     
-    // value: Değiştirilemez (sabit) değerler.
-    // Tür belirtilmemis bir degiskenin tanimlanmasi.
+    // Tür belirtilmemis bir sabit tanimlanmasi.
     val myValue = 1.25 / 2 //>> 0.625
     println(myValue)
     
@@ -53,26 +54,4 @@ fun main(args: Array<String>) {
     var longMaxValue : Long = Long.MAX_VALUE
     var longMinValue : Long = Long.MIN_VALUE
     println("Long Max Value " + longMaxValue + "Min Value " + longMinValue)
-    
-    // Nullability: Bos birakilabilir degisken.
-    // Nullable(?) and Non-Nullable
-    
-    var booleanVar : Boolean? = null
-    var byteVar : Byte? = null
-    var shortVar : Short? = null
-    var integerVar : Int? = null
-    var floatVar : Float? = null
-    var doubleVar : Double? = null
-    var longVar : Long? = null
-    var stringVar : String? = null
-    
-    // Deger atamasi yapilmadan bu degskenler kullanilabilir.
-    println(integerVar)
-    println(stringVar)
-    
-    // Fakat bu degerler ile bir islem yapılmaya kalktiginda hata alinir.
-    // integerVar * 2 -> Hatali Kod
-    // Bu hatanin onune gecilmesi icin: (variableName!!)
-    println(integerVar!!*2)
-    // !! -> Degiskenin degeri kesinlikle initialize edilecek, deger gelince islem yapilacak anlamina gelir.
 }
