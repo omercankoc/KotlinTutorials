@@ -1,4 +1,4 @@
-## <img src="https://github.com/omercankoc/KotlinTutorials/blob/master/kotlin.png" alt="Kotlin" width="32" height="32"> Kotlin Tutorials
+## <img src="https://github.com/omercankoc/KotlinTutorials/blob/master/kotlin.png" alt="Kotlin" width="16" height="16"> Kotlin Tutorials
 <ul>
   <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Variables.kt">Veriables</a></li>
   <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Conversions.kt">Conversions</a></li>
