@@ -1,7 +1,6 @@
 ## <img src="https://github.com/omercankoc/KotlinTutorials/blob/master/kotlin.png" alt="Kotlin" width="16" height="16"> Kotlin Tutorials
 <ul>
   <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Variables.kt">Veriables</a></li>
-  <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Conversions.kt">Conversions</a></li>
   <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Nullability.kt">Nullability</a></li>
   <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Operators.kt">Operators</a></li>
   <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Strings.kt">Strings</a></li>
