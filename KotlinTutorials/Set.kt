@@ -9,7 +9,7 @@ fun main(args: Array<String>) {
     // Eleman sayisi bilgisi al.
     println(jvmLanguages.count())
     
-    // Her bir elemana bir operasyon ekle.
+    // Her bir elemana bir operasyon ekle. (Lambda)
     jvmLanguages.forEach{println(it + " programming language.")}
     
     // HashSet: Bir eleman bir kez HashSet'e eklenebilir.package
