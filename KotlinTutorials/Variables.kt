@@ -1,23 +1,22 @@
 fun main(args: Array<String>) {
     
-    // var : Variable - Değiştirilebilir değerler.
-    // val : Value - Değiştirilemez (sabit) değerler.
+    // var : Variable -> Değiştirilebilir değerler.
+    // val : Value -> Değiştirilemez (sabit) değerler.
 
     // Tür belirtilmemis bir degişkenin tanimlanmasi.
-    var myVariable = 13 / 2 //>> 6 
-    println(myVariable) 
+    var variable = 13 / 2 //>> 6 
+    println(variable) 
     
     // Tür belirtilmemis bir sabit tanimlanmasi.
-    val myValue = 1.25 / 2 //>> 0.625
-    println(myValue)
+    val value = 1.25 / 2 //>> 0.625
+    println(value)
     
     // Defining 
-    var myDouble : Double
+    var pi : Double
     // Initialize
-    myDouble = 3.14
-    
+    pi = 3.1415    
     // Print Console
-    println("Pi=" + myDouble)
+    println("Pi = " + pi)
     
     // DATA TYPES
     // Boolean Type
@@ -54,4 +53,12 @@ fun main(args: Array<String>) {
     var longMaxValue : Long = Long.MAX_VALUE
     var longMinValue : Long = Long.MIN_VALUE
     println("Long Max Value " + longMaxValue + "Min Value " + longMinValue)
+    
+    // Char Type
+    var letter : Char = 'A'
+    println(letter)
+    
+    // String Type
+    var message : String = "Hello World!"
+    println(message)
 }
