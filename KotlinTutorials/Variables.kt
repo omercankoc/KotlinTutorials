@@ -67,9 +67,11 @@ fun main(args: Array<String>) {
     
     
     // Type Convertion -------------------------------------------------- 
+    var myString : String = "10"
     var myDouble : Double = 1.68
     var myInteger : Int = 13
     
+    println(myString.toInt() * 2)
     println(myDouble.toInt())
     println(myInteger.toDouble())
    
