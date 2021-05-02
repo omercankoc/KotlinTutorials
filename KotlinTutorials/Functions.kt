@@ -24,7 +24,6 @@ fun main(args: Array<String>) {
      
     // Function Overloading
     fun Message(message : String) : String{
-        var message = "Hello"
         return message
     }
     
