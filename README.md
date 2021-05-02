@@ -3,7 +3,6 @@
 <ul>
   <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Variables.kt">Variables</a></li>
   <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Nullability.kt">Nullability</a></li>
-  <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Operators.kt">Operators</a></li>
   <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Conditionals.kt">Conditionals</a></li>
   <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Loops.kt">Loops</a></li>
   <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Functions.kt">Functions</a></li>
