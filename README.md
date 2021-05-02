@@ -8,10 +8,18 @@
   <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Loops.kt">Loops</a></li>
   <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Functions.kt">Functions</a></li>
   <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Lambda.kt">Lambda</a></li>
+</ul>
+
+## Collections
+<ul>
   <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Array.kt">Array</a></li>
-  <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/List.kt">List</a></li>
+  <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/List.kt">ArrayList</a></li>
   <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Set.kt">Set</a></li>
   <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Map.kt">Map</a></li>
+</ul>
+
+## Object-Oriented
+<ul>
   <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Classes.kt">Classes</a></li>
   <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Constructors.kt">Constructors</a></li>
   <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Inheritance.kt">Inheritance</a></li>
@@ -21,3 +29,5 @@
   <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Encapsulation.kt">Encapsulation</a></li>
   <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Generic.kt">Generic</a></li>
 </ul>
+
+
