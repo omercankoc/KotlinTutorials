@@ -17,48 +17,60 @@ fun main(args: Array<String>) {
     pi = 3.1415    
     // Print Console
     println("Pi = " + pi)
-    
-    // DATA TYPES
-    // Boolean Type
+     
+    // Boolean ----------------------------------------------------------
     var booleanTrue : Boolean = true;
     var booleanFalse : Boolean = false;
     println("Boolean: $booleanTrue or $booleanFalse")
     
-    // Byte Type
+    // Byte -------------------------------------------------------------
     var byteMaxValue : Byte = Byte.MAX_VALUE
     var byteMinValue : Byte = Byte.MIN_VALUE
     println("Byte Max Value " + byteMaxValue + "Min Value " + byteMinValue)
      
-    // Short Type
+    // Short ------------------------------------------------------------
     var shortMaxValue : Short = Short.MAX_VALUE
     var shortMinValue : Short = Short.MIN_VALUE
     println("Short Max Value " + shortMaxValue + "Min Value " + shortMinValue)
     
-    // Integer Type
+    // Integer ----------------------------------------------------------
     var integerMaxValue : Int = Int.MAX_VALUE
     var integerMinValue : Int = Int.MIN_VALUE
     println("Integer Max Value " + integerMaxValue + "Min Value " + integerMinValue)
            
-    // Float Type
+    // Float ------------------------------------------------------------
     var floatMaxValue : Float = Float.MAX_VALUE
     var floatMinValue : Float = Float.MIN_VALUE
     println("Float Max Value " + floatMaxValue + "Min Value " + floatMinValue)
     
-    // Double Type
+    // Double -----------------------------------------------------------
     var doubleMaxValue : Double = Double.MAX_VALUE
     var doubleMinValue : Double = Double.MIN_VALUE
     println("Double Max Value " + doubleMaxValue + "Min Value " + doubleMinValue)
     
-    // Long Type
+    // Long -------------------------------------------------------------
     var longMaxValue : Long = Long.MAX_VALUE
     var longMinValue : Long = Long.MIN_VALUE
     println("Long Max Value " + longMaxValue + "Min Value " + longMinValue)
     
-    // Char Type
+    // Char -------------------------------------------------------------
     var letter : Char = 'A'
     println(letter)
     
-    // String Type
+    // String -----------------------------------------------------------
     var message : String = "Hello World!"
-    println(message)
+    var user : String = "omercankoc"
+    println(message + user)
+    println("Username : $user ")
+    // Methods :
+    println("Capitalize : ${user.capitalize()}") // Bas harfini buyuk harf yap.
+    
+    
+    // Type Convertion -------------------------------------------------- 
+    var myDouble : Double = 1.68
+    var myInteger : Int = 13
+    
+    println(myDouble.toInt())
+    println(myInteger.toDouble())
+   
 }
