@@ -12,7 +12,7 @@
 ## Collections
 <ul>
   <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Array.kt">Array</a></li>
-  <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/List.kt">ArrayList</a></li>
+  <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/ArrayList.kt">ArrayList</a></li>
   <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Set.kt">Set</a></li>
   <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Map.kt">Map</a></li>
 </ul>
