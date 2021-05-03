@@ -17,7 +17,7 @@ class User(username : String, password : String, email : String, phone : String)
         private var username : String? = username
         
         /* 
-         * "username" degiskeni kendi sinifi disindan erisilemez. 
+         * "password" degiskeni kendi sinifi disindan erisilemez. 
          * "setter(atayici)" da public oldugu icin kendi sinifi disindan degistirilebilir.
          * "getter(okuyucu)" public oldugu icin kendi sinifi disindan okunabilir.
          */
@@ -26,7 +26,7 @@ class User(username : String, password : String, email : String, phone : String)
         	get
         
         /* 
-         * "username" degiskeni kendi sinifi disindan erisilemez. 
+         * "email" degiskeni kendi sinifi disindan erisilemez. 
          * "setter(atayici)" da private oldugu icin kendi sinifi disindan degistirilemez.
          * "getter(okuyucu)" public oldugu icin kendi sinifi disindan okunabilir.
          */
