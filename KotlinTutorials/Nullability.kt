@@ -7,22 +7,26 @@
 // "!!" islevi "Safe Call" olarak adlandirilir.
 // println(VariableName!!*2)
 
-class User(var name : String?, var surname : String?){    
-    fun message(name : String, surname : String ) : String {
-        return "Hello $name $surname!"
+class User(){ 
+    
+    var username : String? = null
+    
+    fun message(username : String?) : String {
+        return "Hello $username"
     }
 }
 
 fun main() {
-    var user = User("abc","cba")
-    if(user.name != " "){
-    	var message : String = user.message(user.name!!, user.surname!!)
+    var user = User()
+    user.username = "username"
+    if(user.username != null){
+    	var message : String? = user.message(user.username)
     	println(message)
     }
     else {
     	println("Nullable Safety!")
     }
     
-    var output : String = user.message(user.name!!,user.surname!!) ?: "Elvis"
+    var output : String = user.message(user.username) ?: "Elvis Safety"
     println(output)
 }
