@@ -22,8 +22,7 @@ fun main() {
     if(user.username != null){
     	var message : String? = user.message(user.username)
     	println(message)
-    }
-    else {
+    } else {
     	println("Nullable Safety!")
     }
     
