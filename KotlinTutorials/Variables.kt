@@ -4,11 +4,11 @@ fun main(args: Array<String>) {
     // val : Value -> Değiştirilemez (sabit) değerler.
 
     // Tür belirtilmemis bir degişkenin tanimlanmasi.
-    var variable = 13 / 2 //>> 6 
+    var variable = 13 / 2 // >> 6 
     println(variable) 
     
     // Tür belirtilmemis bir sabit tanimlanmasi.
-    val value = 1.25 / 2 //>> 0.625
+    val value = 1.25 / 2 // >> 0.625
     println(value)
     
     // Defining 
@@ -60,10 +60,15 @@ fun main(args: Array<String>) {
     // String -----------------------------------------------------------
     var message : String = "Hello World!"
     var user : String = "omercankoc"
-    println(message + user)
+    println(message + " " + user)
     println("Username : $user ")
-    // Methods :
+    
+    // String Methods :
     println("Capitalize : ${user.capitalize()}") // Bas harfini buyuk harf yap.
+    println("Uppercase : ${user.uppercase()}") // Harfleri buyuk yap.
+    println("Lowercase : ${user.lowercase()}") // Harfleri kucuk yap.
+    println("Lenght : ${user.length}") // String uzunlugunu dondur.
+    println("Count : ${user.count()}") // String karakter sayisini dondur.
     
     
     // Type Convertion -------------------------------------------------- 
