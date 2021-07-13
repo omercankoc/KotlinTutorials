@@ -1,16 +1,15 @@
-// Nullability: Bos birakilabilir degisken.
-// var VeriableName : VariableType? = null
-// "?" Degiskenin degeri initialize edilecek anlamina gelir.
-// Bu degerler deger atamasi yapilmadan kullanilabiller. 
-// Fakat bu degerler ile bir islem yapılmaya kalktiginda hata alinir.
-// Bu hatalarin onune gecilmesi icin "variableName!!" seklinde kullanilabilir.
-// "!!" islevi "Safe Call" olarak adlandirilir.
-// println(VariableName!!*2)
+/* 
+ * Nullability -> Bos birakilabilir degisken.
+ * Kullanim -> var VeriableName : VariableType? = null
+ * "?" Degiskenin degeri initialize edilecek anlamina gelir. Bu degerler deger atamasi yapilmadan kullanilabiller. 
+ * Fakat bu degerler ile bir islem yapılmaya kalktiginda hata alinir.
+ * Bu hatalarin onune gecilirken bos olmadigindan emin olundugunda "variableName!!" seklinde kullanilabilir.
+ * "!!" islevi "Safe Call" olarak adlandirilir.
+ * println(VariableName!!*2)
+ */
 
-class User(){ 
-    
-    var username : String? = null
-    
+class User(){     
+    var username : String? = null    
     fun message(username : String?) : String {
         return "Hello $username"
     }
@@ -18,7 +17,7 @@ class User(){
 
 fun main() {
     var user = User()
-    user.username = "username"
+    user.username = "Omer"
     if(user.username != null){
     	var message : String? = user.message(user.username)
     	println(message)
