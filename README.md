@@ -19,11 +19,11 @@
 
 ## Object-Oriented
 <ul>
-  <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Classes.kt">Classes</a></li>
-  <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Constructors.kt">Constructors</a></li>
+  <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Class.kt">Class</a></li>
+  <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Constructor.kt">Constructor</a></li>
   <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Inheritance.kt">Inheritance</a></li>
   <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Interface.kt">Interface</a></li>
-  <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Abstract.kt">Abstract Classes</a></li>
+  <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Abstract.kt">Abstract</a></li>
   <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Polymorphism.kt">Polymorphism</a></li>
   <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Encapsulation.kt">Encapsulation</a></li>
   <li><a href="https://github.com/omercankoc/KotlinTutorials/blob/master/KotlinTutorials/Generic.kt">Generic</a></li>
