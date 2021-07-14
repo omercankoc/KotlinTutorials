@@ -4,7 +4,7 @@
 fun main() {
     
     // Parametresiz Lambda Fonksiyonu
-	  val Message	= {username : String -> println("Hello $username")}
+    val Message	= {username : String -> println("Hello $username")}
     // Parametreli 1. Tip Lambda Fonksiyonu
     val FirstExponent = {base : Int, exponent : Int -> Math.pow(base.toDouble(), exponent.toDouble()).toInt()}
     // Parametreli 2. Tip Lambda Fonksiyonu
